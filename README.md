@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/license-MIT-orange.svg" alt="License" />
 </p>
 
+> [!IMPORTANT]
+> **Code Release Status**: The complete source code, installation scripts, and developer packages of this project are currently undergoing final intellectual property review and registration. All files will be fully open-sourced in this repository upon the formal acceptance/publication of our academic paper. Currently, you can review our [Demo Video](#🎥-demo-video) or check the technical documentation.
+
 <p align="center">
   A web translation extension powered by <b>Large Language Models (LLMs)</b>, designed specifically for developers and deep readers. It not only provides accurate AI translation but also achieves near-native web page response speeds through underlying rendering optimizations.
 </p>
